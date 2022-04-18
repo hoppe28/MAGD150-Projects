@@ -1,3 +1,3 @@
 # MAGD 150 Projects
 
-## Below is my project
+### Below is my project
